@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU4YzZmNThlMjI1NzVmOTNkNDJjMGRkMDcyYmNlMzFjM2Q3NmY5MSZjdD1n/Ho8klqe5oPLa8g6BNe/giphy.gif" width="300"/>
-</div>
 
----
 ### Hi there 👋
 
 <!--
@@ -46,5 +42,9 @@ Here are some ideas to get you started:
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuthNavarroCarrasco&theme=transparent)](https://git.io/streak-stats)
 
+---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU4YzZmNThlMjI1NzVmOTNkNDJjMGRkMDcyYmNlMzFjM2Q3NmY5MSZjdD1n/Ho8klqe5oPLa8g6BNe/giphy.gif" width="300"/>
+</div>
 
 
