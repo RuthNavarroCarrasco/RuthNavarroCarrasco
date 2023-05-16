@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - :green_book: I'm currently studying Computer Science and Engineering at UC3M <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :computer: Aiming to become a Software Engineer
-- :woman_technologist: Interested in full-stack development and Big Data
+- :woman_technologist: Interested in full-stack development, AI and IOT
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/ruth-navarro-carrasco/" target="_blank">Linkedin</a>
 
