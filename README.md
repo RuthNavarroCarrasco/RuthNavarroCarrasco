@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a third year student studying Computer Science and Engineering ar UC3M. I has always been passionate about new technologies and computers. Since I was a child, my dream has been to become a Software Engineer and create innovative technologies that can enhance people's daily lifes and improve their lifestyles. When I entered this field, I fell in love with the limitless possibilities it offers. I always knew that Computer Science was a versatile field, but I never imagined the extent of what could be achieved. Currently, I have strong interest in the advance of technologies such as AI and IOT, while also being intrigued in backend development. 
+I am a third year student studying Computer Science and Engineering at UC3M. I had always been passionate about new technologies and computers. Since I was a child, my dream has been to become a Software Engineer and create innovative technologies that can enhance people's daily lifes and improve their lifestyles. When I entered this field, I fell in love with the limitless possibilities it offers. I always knew that Computer Science was a versatile field, but I never imagined the extent of what could be achieved. Currently, I have strong interest in the advance of technologies such as AI and IOT, while also being intrigued in backend development. 
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlMmUyYmIyNDE1NzMwYjkzMzJkODA2OGZkMzA4NjE3NWJhY2ZmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/TdfyKrN7HGTIY/giphy.gif" width="300"/>
